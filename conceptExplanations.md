@@ -1,0 +1,11 @@
+Callback Functions: a function used for calling other functions. Essentially we can pass functions inside other functions with this method. What this means is that a callback function is like a phone operator, it simply serves as a conduit that you tell it who you want to speak to, and it connects your call.
+
+Closure: If you asked me what is inside your house, I wouldn't know, because I have never been inside your house, however you do. The fact that we are both outside your house right now does not mean you forgot what is inside, you still remember the contents in your house. This is how Closure works in programming. A function that is used elsewhere outside its own space, remembers the information that was contained in the spot where it came from.
+
+`arguments`: in programming are considered pieces of information that will be used inside functions to perform operations. A good example of arguments in real life is I asked you to paint me a landscape, without arguments you would paint any landscape that you desire, but if I specify that I want it to be a desert, with snowy mountains and a city in between them with skyscrapers, the resulting painting would probably be different. In the same way in programming we use arguments to specify the information that we want the functions to use.
+
+Recursion: is a way we can utilize a function to repeat itself until it reaches a certain result. For example I can tell you that I think someone cheated from your exam in the test, and to prove it I want you to check everyone's test and find out if any of them has the same exact answers as you, when find out who did it you can stop checking.
+
+`prototype`: is like a universal TV remote, in the way that you can only use it in TVs, but it serves to make all TVs work and change their channels, and change the volume, and shut them down. We do not need more than 1 remote for each TV if we have an universal remote.
+
+Constructors: For example a constructor is like a stamp that lets you change the date, every time you use it even thou you may have changed the date, it results in a very neat stamp with borders, a company name and even the word date: but the only thing that changes is the date information itself, and you can use it to stamp millions of documents with, but you only need one to do it.
